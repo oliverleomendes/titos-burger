@@ -28,7 +28,7 @@
                         <input type="password" class="form-control" placeholder="Senha">
                     </div>
                     <div class="text-center">
-                        <button class="btn btn-titos">Entrar</button>
+                        <a href="dashboard.php" class="btn btn-titos">Entrar</a>
                     </div>
                 </form>
             </div>
